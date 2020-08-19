@@ -1,5 +1,5 @@
 # Awesome C++ Manager
-### Lite Python program that will find you C++ libraries from https://github.com/fffaraz/awesome-cpp
+### Lite Python program that will find and install you C++ libraries from https://github.com/fffaraz/awesome-cpp
 ## Commands
 > __find 'libname'__
 <br></br>
